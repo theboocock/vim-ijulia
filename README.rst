@@ -2,7 +2,9 @@
 vim-ipython
 ###########
 
-A two-way integration between Vim and IPython.
+A two-way integration between Vim and IJulia.
+
+Very experimental
 
 IPython versions 0.11.x, 0.12.x, 0.13.x, 1.x and 2.x
 
